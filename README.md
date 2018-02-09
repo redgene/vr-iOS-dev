@@ -1,3 +1,3 @@
 # vr-iOS-dev
-Language: C#
-Game Engine: Unity
+Language: C#:
+Engine: Unity
